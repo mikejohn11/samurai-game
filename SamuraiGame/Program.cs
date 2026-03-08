@@ -1,2 +1,11 @@
-﻿Console.WriteLine("Welcome to Samurai Quest!");
-Console.WriteLine("A game of honor and strategy.");
+﻿namespace SamuraiGame
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Game game = new Game();
+            game.Start();
+        }
+    }
+}
