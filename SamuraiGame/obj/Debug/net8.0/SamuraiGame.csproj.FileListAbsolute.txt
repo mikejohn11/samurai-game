@@ -1,0 +1,15 @@
+C:\Projects\Samurai Quest\samurai-game\SamuraiGame\bin\Debug\net8.0\SamuraiGame.exe
+C:\Projects\Samurai Quest\samurai-game\SamuraiGame\bin\Debug\net8.0\SamuraiGame.deps.json
+C:\Projects\Samurai Quest\samurai-game\SamuraiGame\bin\Debug\net8.0\SamuraiGame.runtimeconfig.json
+C:\Projects\Samurai Quest\samurai-game\SamuraiGame\bin\Debug\net8.0\SamuraiGame.dll
+C:\Projects\Samurai Quest\samurai-game\SamuraiGame\bin\Debug\net8.0\SamuraiGame.pdb
+C:\Projects\Samurai Quest\samurai-game\SamuraiGame\obj\Debug\net8.0\SamuraiGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Samurai Quest\samurai-game\SamuraiGame\obj\Debug\net8.0\SamuraiGame.AssemblyInfoInputs.cache
+C:\Projects\Samurai Quest\samurai-game\SamuraiGame\obj\Debug\net8.0\SamuraiGame.AssemblyInfo.cs
+C:\Projects\Samurai Quest\samurai-game\SamuraiGame\obj\Debug\net8.0\SamuraiGame.csproj.CoreCompileInputs.cache
+C:\Projects\Samurai Quest\samurai-game\SamuraiGame\obj\Debug\net8.0\SamuraiGame.sourcelink.json
+C:\Projects\Samurai Quest\samurai-game\SamuraiGame\obj\Debug\net8.0\SamuraiGame.dll
+C:\Projects\Samurai Quest\samurai-game\SamuraiGame\obj\Debug\net8.0\refint\SamuraiGame.dll
+C:\Projects\Samurai Quest\samurai-game\SamuraiGame\obj\Debug\net8.0\SamuraiGame.pdb
+C:\Projects\Samurai Quest\samurai-game\SamuraiGame\obj\Debug\net8.0\SamuraiGame.genruntimeconfig.cache
+C:\Projects\Samurai Quest\samurai-game\SamuraiGame\obj\Debug\net8.0\ref\SamuraiGame.dll
