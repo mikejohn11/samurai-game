@@ -20,7 +20,9 @@ namespace SamuraiGame
                 if (choice == "1")
                 {
                     // Player attacks
-                    int playerDamage = random.Next(20, 51); // 20 to 50
+                    int minDamage = 20 + (player.Level - 1) * 5;
+                    int maxDamage = 50 + (player.Level - 1) * 5;
+                    int playerDamage = random.Next(minDamage, maxDamage + 1);
                     enemy.TakeDamage(playerDamage);
                     Console.WriteLine($"You deal {playerDamage} damage to the {enemy.Name}. {enemy.Name} health: {enemy.Health}");
 
@@ -51,6 +53,9 @@ namespace SamuraiGame
             else if (!enemy.IsAlive)
             {
                 Console.WriteLine($"You have defeated the {enemy.Name}!");
+                int expGained = random.Next(20, 51); // 20 to 50
+                player.GainExperience(expGained);
+                Console.WriteLine($"You gained {expGained} experience!");
             }
         }
     }

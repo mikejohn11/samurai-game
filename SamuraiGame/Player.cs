@@ -6,6 +6,8 @@ namespace SamuraiGame
     {
         public int MaxHealth { get; private set; } = 100;
         public int Health { get; private set; }
+        public int Experience { get; private set; }
+        public int Level { get; private set; } = 1;
 
         public Player()
         {
@@ -27,6 +29,17 @@ namespace SamuraiGame
             if (Health > MaxHealth)
             {
                 Health = MaxHealth; // Prevent exceeding max health
+            }
+        }
+
+        public void GainExperience(int amount)
+        {
+            Experience += amount;
+            if (Experience >= 100)
+            {
+                Level++;
+                Experience = 0; // Reset experience after leveling
+                Console.WriteLine($"Congratulations! You leveled up to level {Level}!");
             }
         }
 

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SamuraiGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bdcdf4a4264aeba27fb0c280ceec0f1804b5e2db")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d48dada85f4b17197d69d93901115d76af7e6f8")]
 [assembly: System.Reflection.AssemblyProductAttribute("SamuraiGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SamuraiGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
